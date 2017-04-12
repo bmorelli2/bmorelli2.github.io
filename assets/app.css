@@ -83,6 +83,12 @@ a.social-icons{
   margin: 0 auto;
 }
 
+.sect-home-body{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
 .section-about{
   background-color: #fceaef;
   flex-wrap: wrap;
