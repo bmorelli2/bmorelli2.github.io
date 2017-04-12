@@ -1,63 +1,63 @@
 var portfolioArray = [
   {
-    "title":"Example title",
+    "title":"BELLA SEVEN",
     "src":"assets/04-portfolio-image-001.jpg",
-    "disc":"Here is an image that i made."
+    "disc":"A house development logo on waiheke island."
   }, {
-    "title":"Example title 2",
+    "title":"2015 BODY DRAWING",
     "src":"assets/04-portfolio-image-002.jpg",
-    "disc":"I also made this image."
+    "disc":"Sketch I drew in 2015."
   }, {
-    "title":"",
+    "title":"VIDA FIESTA LOGO",
     "src":"assets/04-portfolio-image-003.jpg",
-    "disc":"Here is another image that i made."
+    "disc":"Yr12 Logo design for a Day of the dead festival."
   }, {
-    "title":"",
+    "title":"VIDA FIESTA POSTER",
     "src":"assets/04-portfolio-image-004.jpg",
-    "disc":""
+    "disc":"Yr12 final poster design for a Day of the dead festival."
   }, {
-    "title":"",
+    "title":"VIDA FIESTA POSTER",
     "src":"assets/04-portfolio-image-005.jpg",
-    "disc":""
+    "disc":"Yr12 a final poster design for a Day of the dead festival."
   }, {
-    "title":"",
+    "title":"CHARACTER DEVELOPMENT",
     "src":"assets/04-portfolio-image-006.jpg",
-    "disc":""
+    "disc":"Yr13 character development for my ps4 game, Worldly."
   }, {
-    "title":"",
-    "src":"assets/04-portfolio-image-007.jpg",
-    "disc":""
-  }, {
-    "title":"",
+    "title":"CHARACTER REFINMENT",
     "src":"assets/04-portfolio-image-008.jpg",
-    "disc":""
+    "disc":"Yr13 character refinment for my ps4 game, Worldly."
   }, {
-    "title":"",
+    "title":"CHARACTER FINAL",
+    "src":"assets/04-portfolio-image-007.jpg",
+    "disc":"Yr13 final character for my ps4 game, Worldly."
+  }, {
+    "title":"GAME COVER FINAL",
     "src":"assets/04-portfolio-image-009.jpg",
-    "disc":""
+    "disc":"Yr13 game cover for my ps4 game, Worldly."
   }, {
-    "title":"",
+    "title":"GAME COVER OPTIONS",
     "src":"assets/04-portfolio-image-010.jpg",
-    "disc":""
+    "disc":"Yr13 game cover ideas for my ps4 game, Worldly."
   }, {
-    "title":"",
+    "title":"WORLDLY LOGO",
     "src":"assets/04-portfolio-image-011.jpg",
-    "disc":""
+    "disc":"Yr13 logo for my ps4 game, Worldly."
   }, {
-    "title":"",
+    "title":"FINAL POSTERS",
     "src":"assets/04-portfolio-image-012.jpg",
-    "disc":""
+    "disc":"Yr13 final posters for my ps4 game, Worldly."
   }, {
-    "title":"",
+    "title":"POSTER REFINMENTS",
     "src":"assets/04-portfolio-image-013.jpg",
-    "disc":""
+    "disc":"Yr13 final posters insperation for my ps4 game, Worldly."
   }, {
-    "title":"",
+    "title":"POSTER IDEAS",
     "src":"assets/04-portfolio-image-014.jpg",
-    "disc":""
+    "disc":"Yr13 posters for my ps4 game, Worldly."
   }, {
-    "title":"",
+    "title":"DOODLES",
     "src":"assets/04-portfolio-image-015.jpg",
-    "disc":""
+    "disc":"Weird and wonderful (maybe not so wonderful) doodles."
   }
 ];
